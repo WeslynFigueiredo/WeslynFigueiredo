@@ -14,13 +14,13 @@ Atualmente, atuo como **Docente** no Centro Universitário META, onde aplico min
 Habilidades Técnicas:
 
 - 💻 Linguagens de Programação: Python, PHP, GDScript
-- 🌐 Desenvolvimento Web: HTML5
+- 🌐 Desenvolvimento Web: HTML5, CSS, JS
 - 🌎 Bancos de Dados: MySQL
 - 📊 Ferramentas de Visualização de Dados: Power BI, Análise de Dados
 - ☁️ Cloud Computing: Azure, AWS, Google Cloud
 - 🛡️ Cibersegurança: Cisco CyberOps, LGPD, Segurança de Redes
 - ⚙️ Metodologias: Desenvolvimento Ágil, Scrum
-- 🖥️ Sistemas Operacionais: Linux
+- 🖥️ Sistemas Operacionais: Windows, Linux
 - 📡 Redes: Cisco (Roteamento e Switching), IPv4, IPv6
 - 🧠 Inteligência Artificial: IA, Machine Learning
 - 🕹️ Desenvolvimento de Jogos: Animação 2D, Arte Vetorial
