@@ -1,9 +1,9 @@
 # 💻 Olá, eu sou o Weslyn Figueiredo!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/weslyn-figueiredo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<a href="https://www.linkedin.com/in/weslyn-figueiredo/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </p>
 
 ### 🚀 Sobre Mim
@@ -30,30 +30,30 @@ Especialista em **Tecnologia da Informação** com foco em educação técnica e
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeslynFigueiredo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslynFigueiredo&layout=compact&langs_count=7&theme=dracula" />
+<img src="https://github-metrics.metrics.run/WeslynFigueiredo?base=header,repositories&base.active=0&base.attributes=0&config.timezone=America/Sao_Paulo" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WeslynFigueiredo&theme=dracula" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WeslynFigueiredo&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=WeslynFigueiredo&icon=0&color=0" alt="Visit Count">
+  <img src="https://komarev.com/ghpvc/?username=WeslynFigueiredo&color=blue&style=flat-square&label=VISITAS+AO+PERFIL" alt="WeslynFigueiredo" />
 </p>
