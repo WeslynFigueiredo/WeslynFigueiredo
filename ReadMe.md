@@ -27,21 +27,100 @@ Atuo como **docente no Centro Universitário META** e **instrutor de Tecnologia 
 
 ## 🌟 Projetos em destaque
 
-| Projeto | O que faz | Tecnologias / área |
-| :--- | :--- | :--- |
-| [📘 SENAI AP Planeja](https://github.com/WeslynFigueiredo/senai-ap-planeja) | Converte dados de planos de ensino em planilhas institucionais Excel, com foco na preservação da estrutura do modelo. | Next.js, React, TypeScript, OpenXML |
-| [🛠️ SENAI LabControl](https://github.com/WeslynFigueiredo/senai-labcontrol) | Gestão de inventário de laboratórios, controle de ativos e relatórios. | React, Firebase, Tailwind CSS |
-| [🍎 Laboratório de Alimentos](https://github.com/WeslynFigueiredo/senai-lab-alimentos) | Controle de insumos, estoque e reservas para atividades em laboratório. | React, Firebase |
-| [🐟 Desafio Técnico MLOps](https://github.com/WeslynFigueiredo/DESAFIO-TECNICO-MLOps-Engineer) | Demonstra um fluxo de predição de peso e biomassa de peixes, da modelagem à aplicação. | Python, FastAPI, Streamlit, MLflow |
-| [🎮 Infinity Runner — Tutorial](https://github.com/WeslynFigueiredo/Infinity-Runner-3-ano) | Guia interativo e progressivo de desenvolvimento de jogos com Godot. | Godot, GDScript, HTML |
-| [💡 Oficina Meu Negócio](https://github.com/WeslynFigueiredo/oficina-meu-negocio-senai) | Aplicação educacional para estruturar ideias de negócios e gerar diagnósticos com apoio de IA. | Python, Streamlit, IA generativa |
+Soluções aplicadas à educação, à gestão e ao desenvolvimento de software. Explore o código, a documentação e, quando disponível, a demonstração online.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📘 [SENAI AP Planeja](https://github.com/WeslynFigueiredo/senai-ap-planeja)
+
+**Automação educacional**
+
+Transforma dados de planos de ensino em planilhas Excel institucionais, com foco na preservação de fórmulas, macros e estrutura.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[**Código e documentação ↗**](https://github.com/WeslynFigueiredo/senai-ap-planeja)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ [SENAI LabControl](https://github.com/WeslynFigueiredo/senai-labcontrol)
+
+**Gestão de laboratórios**
+
+Inventário de ativos, controle de laboratórios e relatórios para apoio à gestão institucional.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+[**Código e documentação ↗**](https://github.com/WeslynFigueiredo/senai-labcontrol)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍎 [Laboratório de Alimentos](https://github.com/WeslynFigueiredo/senai-lab-alimentos)
+
+**Gestão de insumos**
+
+Controle de estoque, validade de produtos e reservas para aulas práticas.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firestore](https://img.shields.io/badge/Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+[**Explorar repositório ↗**](https://github.com/WeslynFigueiredo/senai-lab-alimentos)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐟 [Desafio Técnico MLOps](https://github.com/WeslynFigueiredo/DESAFIO-TECNICO-MLOps-Engineer)
+
+**IA e análise de dados**
+
+Pipeline demonstrativo de predição de peso e biomassa de peixes, com API e dashboard.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+[**Código e documentação ↗**](https://github.com/WeslynFigueiredo/DESAFIO-TECNICO-MLOps-Engineer)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [Infinity Runner — Godot](https://github.com/WeslynFigueiredo/Infinity-Runner-3-ano)
+
+**Jogos digitais e aprendizagem**
+
+Tutorial interativo com etapas e vídeos para desenvolver um jogo de corrida infinita.
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+
+[**Ver tutorial ↗**](https://weslynfigueiredo.github.io/Infinity-Runner-3-ano/) · [Código](https://github.com/WeslynFigueiredo/Infinity-Runner-3-ano)
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 [Oficina Meu Negócio](https://github.com/WeslynFigueiredo/oficina-meu-negocio-senai)
+
+**Empreendedorismo e IA**
+
+Oficina digital que orienta ideias de negócio e oferece diagnóstico com apoio de inteligência artificial.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[**Abrir aplicação ↗**](https://oficina-meu-negocio-senai.streamlit.app) · [Código](https://github.com/WeslynFigueiredo/oficina-meu-negocio-senai)
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><strong>🎯 Acesse também meus materiais interativos</strong></summary>
+<summary><strong>📚 Mais recursos didáticos interativos</strong></summary>
 
-- [Tutorial Infinity Runner — Godot](https://weslynfigueiredo.github.io/Infinity-Runner-3-ano/)
 - [Tutorial Jogo de Pega-Pega — Godot](https://weslynfigueiredo.github.io/jogo_pega_pega_godot/)
-- [Oficina Meu Negócio — Aplicação](https://oficina-meu-negocio-senai.streamlit.app)
+- [Outros projetos e materiais no GitHub](https://github.com/WeslynFigueiredo?tab=repositories)
 
 </details>
 
