@@ -33,7 +33,7 @@ Cada projeto abaixo apresenta uma necessidade concreta e uma abordagem tecnológ
 <a href="https://github.com/WeslynFigueiredo/senai-ap-planeja"><img src="./assets/project-senai-planeja.svg" width="100%" alt="Arte conceitual SENAI AP Planeja"/></a>
 <br/><strong>📘 SENAI AP Planeja</strong><br/>
 <sub>Automação de planos de ensino para Excel institucional, com atenção a macros, fórmulas e estrutura.</sub><br/><br/>
-<a href="https://github.com/WeslynFigueiredo/senai-ap-planeja">Código e documentação ↗</a>
+<a href="https://planeja.weslynlab.com.br/">Abrir aplicação ↗</a> · <a href="https://github.com/WeslynFigueiredo/senai-ap-planeja">Código e documentação</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/WeslynFigueiredo/senai-labcontrol"><img src="./assets/project-labcontrol.svg" width="100%" alt="Arte conceitual SENAI LabControl"/></a>
