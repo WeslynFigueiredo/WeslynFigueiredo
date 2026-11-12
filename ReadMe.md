@@ -10,6 +10,7 @@ Atuo como **docente no Centro Universitário META** e **instrutor de Tecnologia 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslyn-figueiredo/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WeslynFigueiredo?tab=repositories)
+[![WeslynLab](https://img.shields.io/badge/WeslynLab-Portal%20Profissional-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://weslynlab.com.br/)
 
 </div>
 
@@ -173,7 +174,7 @@ Tenho interesse especial em soluções que tornem processos institucionais mais 
 
 ### 🤝 Vamos conectar tecnologia, educação e inovação?
 
-**[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/weslyn-figueiredo/)** · **[Explore meus repositórios](https://github.com/WeslynFigueiredo?tab=repositories)**
+**[Visite o WeslynLab](https://weslynlab.com.br/)** · **[Conecte-se no LinkedIn](https://www.linkedin.com/in/weslyn-figueiredo/)** · **[Explore meus repositórios](https://github.com/WeslynFigueiredo?tab=repositories)**
 
 <sub>Projetos, experimentos e materiais de aprendizagem desenvolvidos com foco em aplicação prática.</sub>
 
