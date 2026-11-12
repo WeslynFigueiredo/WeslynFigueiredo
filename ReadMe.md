@@ -1,168 +1,129 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Weslyn Figueiredo
+<img src="./assets/digital-command-center.svg" width="100%" alt="WeslynLab — Digital Command Center: Build, Teach, Innovate"/>
 
-### Desenvolvedor de Software • Professor de Tecnologia • Inovação Educacional
+<!-- Animação de digitação SVG gerada por serviço externo; o README permanece legível mesmo sem ela. -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3100&pause=1100&color=36D9F3&center=true&vCenter=true&width=720&lines=Eu+construo+solu%C3%A7%C3%B5es+com+tecnologia.;Transformo+ideias+em+experi%C3%AAncias.;Da+sala+de+aula+ao+c%C3%B3digo." alt="Construo soluções, transformo ideias, da sala de aula ao código"/>
 
-**Transformo desafios reais em soluções digitais e experiências de aprendizagem.**
-
-Atuo como **docente no Centro Universitário META** e **instrutor de Tecnologia da Informação no SENAI**, conectando desenvolvimento de software, educação profissional e inovação.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslyn-figueiredo/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WeslynFigueiredo?tab=repositories)
-[![WeslynLab](https://img.shields.io/badge/WeslynLab-Portal%20Profissional-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://weslynlab.com.br/)
+[![WeslynLab](https://img.shields.io/badge/PORTAL-WESLYNLAB-17A5D8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://weslynlab.com.br/)
+[![LinkedIn](https://img.shields.io/badge/CONECTAR-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslyn-figueiredo/)
+[![Projetos](https://img.shields.io/badge/EXPLORAR-REPOSIT%C3%93RIOS-253951?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WeslynFigueiredo?tab=repositories)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+### `01 / IDENTIDADE` — Da sala de aula ao código
 
-- 👨‍🏫 **Educação e tecnologia:** recursos didáticos, jogos e ferramentas para apoiar o ensino e a gestão educacional.
-- 💻 **Desenvolvimento de software:** aplicações web, integração de dados, automação e sistemas de gestão.
-- 🤖 **Dados e inteligência artificial:** análise de dados, aprendizado de máquina e MLOps.
-- 🎮 **Desenvolvimento de jogos:** experiências e materiais educacionais com Unity, Godot, C# e GDScript.
-- 🎓 **Formação:** pós-graduação em Análise de Sistemas e Banco de Dados e graduação em Gestão de Tecnologia da Informação.
+Sou **Weslyn Figueiredo**, desenvolvedor de software e professor de Tecnologia da Informação. Atuo como **docente no Centro Universitário META** e **instrutor de TI no SENAI**, desenvolvendo soluções digitais e experiências de aprendizagem que conectam problemas reais, código e educação.
 
-> Acredito na tecnologia como meio para resolver problemas, ampliar oportunidades e tornar o aprendizado mais significativo.
+> **Minha missão:** transformar necessidades em ferramentas úteis e aproximar pessoas da tecnologia por meio da prática.
 
-## 🌟 Projetos em destaque
+<table>
+<tr><td align="center" width="33%"><strong>BUILD</strong><br/><sub>Aplicações web, sistemas e automações</sub></td><td align="center" width="33%"><strong>TEACH</strong><br/><sub>Educação profissional e recursos interativos</sub></td><td align="center" width="33%"><strong>INNOVATE</strong><br/><sub>IA, dados e desenvolvimento de jogos</sub></td></tr>
+</table>
 
-Soluções aplicadas à educação, à gestão e ao desenvolvimento de software. Explore o código, a documentação e, quando disponível, a demonstração online.
+### `02 / PROJETOS` — Sistemas que saem do papel
+
+Cada projeto abaixo apresenta uma necessidade concreta e uma abordagem tecnológica. As capas são **artes conceituais criadas para a vitrine**, não capturas das interfaces.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 📘 [SENAI AP Planeja](https://github.com/WeslynFigueiredo/senai-ap-planeja)
-
-**Automação educacional**
-
-Transforma dados de planos de ensino em planilhas Excel institucionais, com foco na preservação de fórmulas, macros e estrutura.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-[**Código e documentação ↗**](https://github.com/WeslynFigueiredo/senai-ap-planeja)
-
+<a href="https://github.com/WeslynFigueiredo/senai-ap-planeja"><img src="./assets/project-senai-planeja.svg" width="100%" alt="Arte conceitual SENAI AP Planeja"/></a>
+<br/><strong>📘 SENAI AP Planeja</strong><br/>
+<sub>Automação de planos de ensino para Excel institucional, com atenção a macros, fórmulas e estrutura.</sub><br/><br/>
+<a href="https://github.com/WeslynFigueiredo/senai-ap-planeja">Código e documentação ↗</a>
 </td>
 <td width="50%" valign="top">
-
-### 🛠️ [SENAI LabControl](https://github.com/WeslynFigueiredo/senai-labcontrol)
-
-**Gestão de laboratórios**
-
-Inventário de ativos, controle de laboratórios e relatórios para apoio à gestão institucional.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-
-[**Código e documentação ↗**](https://github.com/WeslynFigueiredo/senai-labcontrol)
-
+<a href="https://github.com/WeslynFigueiredo/senai-labcontrol"><img src="./assets/project-labcontrol.svg" width="100%" alt="Arte conceitual SENAI LabControl"/></a>
+<br/><strong>🛠️ SENAI LabControl</strong><br/>
+<sub>Controle de ativos e inventário de laboratórios com relatórios para apoio à gestão.</sub><br/><br/>
+<a href="https://github.com/WeslynFigueiredo/senai-labcontrol">Código e documentação ↗</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🍎 [Laboratório de Alimentos](https://github.com/WeslynFigueiredo/senai-lab-alimentos)
-
-**Gestão de insumos**
-
-Controle de estoque, validade de produtos e reservas para aulas práticas.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firestore](https://img.shields.io/badge/Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-
-[**Explorar repositório ↗**](https://github.com/WeslynFigueiredo/senai-lab-alimentos)
-
+<a href="https://github.com/WeslynFigueiredo/senai-lab-alimentos"><img src="./assets/project-lab-alimentos.svg" width="100%" alt="Arte conceitual Lab de Alimentos"/></a>
+<br/><strong>🍎 Laboratório de Alimentos</strong><br/>
+<sub>Gestão de insumos, validade e reservas para atividades práticas.</sub><br/><br/>
+<a href="https://github.com/WeslynFigueiredo/senai-lab-alimentos">Explorar repositório ↗</a>
 </td>
 <td width="50%" valign="top">
-
-### 🐟 [Desafio Técnico MLOps](https://github.com/WeslynFigueiredo/DESAFIO-TECNICO-MLOps-Engineer)
-
-**IA e análise de dados**
-
-Pipeline demonstrativo de predição de peso e biomassa de peixes, com API e dashboard.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-[**Código e documentação ↗**](https://github.com/WeslynFigueiredo/DESAFIO-TECNICO-MLOps-Engineer)
-
+<a href="https://github.com/WeslynFigueiredo/DESAFIO-TECNICO-MLOps-Engineer"><img src="./assets/project-mlops.svg" width="100%" alt="Arte conceitual de inteligência artificial e MLOps"/></a>
+<br/><strong>🐟 Desafio Técnico MLOps</strong><br/>
+<sub>Pipeline demonstrativo de predição de peso e biomassa com API, modelo e dashboard.</sub><br/><br/>
+<a href="https://github.com/WeslynFigueiredo/DESAFIO-TECNICO-MLOps-Engineer">Código e documentação ↗</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🎮 [Infinity Runner — Godot](https://github.com/WeslynFigueiredo/Infinity-Runner-3-ano)
-
-**Jogos digitais e aprendizagem**
-
-Tutorial interativo com etapas e vídeos para desenvolver um jogo de corrida infinita.
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-
-[**Ver tutorial ↗**](https://weslynfigueiredo.github.io/Infinity-Runner-3-ano/) · [Código](https://github.com/WeslynFigueiredo/Infinity-Runner-3-ano)
-
+<a href="https://github.com/WeslynFigueiredo/Infinity-Runner-3-ano"><img src="./assets/project-infinity.svg" width="100%" alt="Arte conceitual Infinity Runner"/></a>
+<br/><strong>🎮 Infinity Runner — Godot</strong><br/>
+<sub>Tutorial com vídeos e etapas para desenvolver um jogo na Godot.</sub><br/><br/>
+<a href="https://weslynfigueiredo.github.io/Infinity-Runner-3-ano/">Tutorial online ↗</a> · <a href="https://github.com/WeslynFigueiredo/Infinity-Runner-3-ano">Código</a>
 </td>
 <td width="50%" valign="top">
-
-### 💡 [Oficina Meu Negócio](https://github.com/WeslynFigueiredo/oficina-meu-negocio-senai)
-
-**Empreendedorismo e IA**
-
-Oficina digital que orienta ideias de negócio e oferece diagnóstico com apoio de inteligência artificial.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-[**Abrir aplicação ↗**](https://oficina-meu-negocio-senai.streamlit.app) · [Código](https://github.com/WeslynFigueiredo/oficina-meu-negocio-senai)
-
+<a href="https://github.com/WeslynFigueiredo/oficina-meu-negocio-senai"><img src="./assets/project-negocio.svg" width="100%" alt="Arte conceitual Oficina Meu Negócio"/></a>
+<br/><strong>💡 Oficina Meu Negócio</strong><br/>
+<sub>Aplicação educacional para estruturar ideias de negócios com diagnóstico apoiado por IA.</sub><br/><br/>
+<a href="https://oficina-meu-negocio-senai.streamlit.app">Abrir aplicação ↗</a> · <a href="https://github.com/WeslynFigueiredo/oficina-meu-negocio-senai">Código</a>
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>📚 Mais recursos didáticos interativos</strong></summary>
+<details><summary><strong>📸 Ver imagens reais e materiais dos projetos</strong></summary>
 
-- [Tutorial Jogo de Pega-Pega — Godot](https://weslynfigueiredo.github.io/jogo_pega_pega_godot/)
-- [Outros projetos e materiais no GitHub](https://github.com/WeslynFigueiredo?tab=repositories)
+**MLOps — Dashboard de biomassa (imagem do repositório):**
+
+<img src="https://raw.githubusercontent.com/WeslynFigueiredo/DESAFIO-TECNICO-MLOps-Engineer/main/docs/dashboard.png" alt="Captura real do dashboard MLOps" width="650"/>
+
+**MLOps — Predição por imagem (imagem do repositório):**
+
+<img src="https://raw.githubusercontent.com/WeslynFigueiredo/DESAFIO-TECNICO-MLOps-Engineer/main/docs/streamlit-image.png" alt="Captura real do aplicativo Streamlit" width="650"/>
+
+**Outros materiais didáticos:** [Pega-Pega com Godot](https://weslynfigueiredo.github.io/jogo_pega_pega_godot/) · [Infinity Runner](https://weslynfigueiredo.github.io/Infinity-Runner-3-ano/).
 
 </details>
 
-## 🧰 Tecnologias e competências
-
-| Área | Ferramentas e conhecimentos |
-| :--- | :--- |
-| **Linguagens** | Python, PHP, JavaScript, TypeScript, C#, GDScript |
-| **Desenvolvimento web** | HTML5, CSS3, React, Next.js, Laravel |
-| **Back-end e dados** | NestJS, MySQL, PostgreSQL, Firebase / Firestore |
-| **IA e análise de dados** | Power BI, aprendizado de máquina, MLOps |
-| **Jogos e experiências interativas** | Unity, Godot, animação 2D |
-| **Infraestrutura e nuvem** | Docker, Azure, AWS, Google Cloud |
-| **Redes e segurança** | Cisco, roteamento e switching, CyberOps, LGPD |
+### `03 / STACK` — Tecnologias e competências
 
 <div align="center">
 
-### ⚡ Tecnologias em foco
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 </div>
 
-## 🎓 Tecnologia aplicada à educação
+| Campo | Conhecimentos e ferramentas |
+| :--- | :--- |
+| **Desenvolvimento** | Python, PHP, JavaScript, TypeScript, C#, GDScript, HTML5, CSS3 |
+| **Sistemas web** | React, Next.js, Laravel, NestJS |
+| **Dados e IA** | Power BI, MySQL, PostgreSQL, Firebase/Firestore, MLOps |
+| **Cloud e infraestrutura** | Docker, Azure, AWS, Google Cloud |
+| **Jogos digitais** | Unity, Godot, animação 2D |
+| **Redes e segurança** | Cisco, roteamento/switching, CyberOps, LGPD |
 
-Minha atuação reúne **ensino, desenvolvimento e experimentação**: materiais interativos, sistemas para processos acadêmicos, gestão de laboratórios e projetos de programação de jogos digitais.
+### `04 / JORNADA` — Educação e tecnologia
 
-Tenho interesse especial em soluções que tornem processos institucionais mais eficientes e que permitam aos estudantes aprender por meio de projetos reais.
+- 🎓 **Formação:** pós-graduação em Análise de Sistemas e Banco de Dados; graduação em Gestão de Tecnologia da Informação.
+- 👨‍🏫 **Docência:** ensino superior no Centro Universitário META e formação profissional no SENAI.
+- 🧪 **Aplicação prática:** ferramentas para processos acadêmicos, laboratórios, desenvolvimento de jogos e experiências educativas.
+- 🔭 **Interesse contínuo:** sistemas mais eficientes, inteligência artificial aplicada e aprendizagem baseada em projetos.
 
-## 📈 Atividade no GitHub
+### `05 / ACTIVITY LOG` — GitHub
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WeslynFigueiredo&theme=transparent&hide_border=true)](https://github.com/WeslynFigueiredo)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WeslynFigueiredo&theme=transparent&hide_border=true" alt="Sequência de contribuições no GitHub"/>
+
+<br/>
 
 ![Visitas ao perfil](https://komarev.com/ghpvc/?username=WeslynFigueiredo&color=0A66C2&style=flat-square&label=Visitas+ao+perfil)
 
@@ -172,10 +133,12 @@ Tenho interesse especial em soluções que tornem processos institucionais mais 
 
 <div align="center">
 
-### 🤝 Vamos conectar tecnologia, educação e inovação?
+### `CONNECT / COLLABORATE`
 
-**[Visite o WeslynLab](https://weslynlab.com.br/)** · **[Conecte-se no LinkedIn](https://www.linkedin.com/in/weslyn-figueiredo/)** · **[Explore meus repositórios](https://github.com/WeslynFigueiredo?tab=repositories)**
+**Tecnologia é mais interessante quando vira solução para pessoas.**
 
-<sub>Projetos, experimentos e materiais de aprendizagem desenvolvidos com foco em aplicação prática.</sub>
+[**WeslynLab — Portal profissional**](https://weslynlab.com.br/) · [**LinkedIn**](https://www.linkedin.com/in/weslyn-figueiredo/) · [**Repositórios**](https://github.com/WeslynFigueiredo?tab=repositories)
+
+<sub>WESLYNLAB // BUILD • TEACH • INNOVATE</sub>
 
 </div>

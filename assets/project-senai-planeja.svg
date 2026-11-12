@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="230" viewBox="0 0 680 230" role="img" aria-label="SENAI AP Planeja - arte conceitual">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091629"/><stop offset="1" stop-color="#102642"/></linearGradient><pattern id="gr" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" stroke="#3E9EC1" stroke-opacity=".10" fill="none"/></pattern></defs>
+<rect width="680" height="230" rx="15" fill="url(#bg)"/><rect width="680" height="230" fill="url(#gr)"/><path d="M20 26H340M20 204H660" stroke="#35E1C0" stroke-opacity=".48"/>
+<rect x="23" y="27" width="120" height="22" rx="4" fill="#35E1C0" fill-opacity=".13" stroke="#35E1C0" stroke-opacity=".45"/>
+<text x="34" y="43" font-family="monospace" font-size="12" font-weight="bold" fill="#35E1C0">WESLYNLAB /</text>
+<text x="30" y="100" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="bold" fill="#F3F9FF">SENAI AP Planeja</text>
+<text x="30" y="134" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#35E1C0">EDTECH / EXCEL</text>
+<text x="30" y="188" font-family="monospace" font-size="12" fill="#8EB5C8">PROJECT FILE // EXPLORE CODE</text>
+<rect x="450" y="63" width="203" height="115" rx="9" fill="#102C41" stroke="#35E1C0" stroke-opacity=".65"/><rect x="465" y="78" width="174" height="13" rx="3" fill="#35E1C0" opacity=".25"/><path d="M465 102H639M465 124H639M465 146H639M500 91V166M552 91V166M599 91V166" stroke="#35E1C0" stroke-opacity=".48"/><rect x="508" y="104" width="42" height="18" fill="#35E1C0" opacity=".44"/>
+</svg>
